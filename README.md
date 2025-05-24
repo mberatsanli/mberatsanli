@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Melih Berat ŞANLI
 
-<!--
-**mberatsanli/mberatsanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend Engineer | Java • Go • Node.js  
+💻 Building scalable microservices & real-time systems  
+🌍 Based in Poland • Working remotely with global teams  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- A SIP-based AI call center agent using Drachtio & LLMs
+- A Java-based service discovery & proxy infrastructure
+- Improving my system design skills through hands-on architecture projects
+
+### 🌱 I’m currently learning
+- Advanced Kubernetes & GitOps practices
+- Observability with Prometheus, Grafana, and OpenTelemetry
+- Event-driven system patterns with Kafka & Redis Streams
+
+### 👯 I’m looking to collaborate on
+- Open-source projects involving backend infra or devtools
+- Real-time communication systems (WebRTC, SIP, etc.)
+- Experimental LLM integrations into backend services
+
+### 💬 Ask me about
+- System performance optimization
+- REST vs gRPC APIs in microservice environments
+- PHP to Go/Java migration journeys 🚀
+
+### 📫 How to reach me
+- Personal website: [mberatsanli.com](https://mberatsanli.com)
+- Email: mberatsanli@gmail.com
+- LinkedIn: [linkedin.com/in/mberatsanli](https://www.linkedin.com/in/mberatsanli)
+
+### ⚡ Fun fact
+In high school, I was writing robotics code in C++ before I ever learned what a backend was. Now I build cloud-native systems that talk in real-time 👾
