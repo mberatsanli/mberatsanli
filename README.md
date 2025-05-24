@@ -6,10 +6,12 @@
 
 ---
 
+<!--
 ### 🔭 I’m currently working on
 - A SIP-based AI call center agent using Drachtio & LLMs
 - A Java-based service discovery & proxy infrastructure
 - Improving my system design skills through hands-on architecture projects
+---> 
 
 ### 🌱 I’m currently learning
 - Advanced Kubernetes & GitOps practices
