@@ -26,7 +26,7 @@
 ### 💬 Ask me about
 - System performance optimization
 - REST vs gRPC APIs in microservice environments
-- PHP to Go/Java migration journeys 🚀
+- Go and Node journeys 🚀
 
 ### 📫 How to reach me
 - Personal website: [mberatsanli.com](https://mberatsanli.com)
